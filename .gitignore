@@ -25,6 +25,8 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/school.mv.db
+/school.trace.db
 
 ### NetBeans ###
 /nbproject/private/
